@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$PROJECT_DIR$/create_use_db.sql" value="24ad7185-f78c-458d-a495-db83f6534b72" />
-    <file url="file://$PROJECT_DIR$/show_all_db.sql" value="24ad7185-f78c-458d-a495-db83f6534b72" />
+    <file url="file://$PROJECT_DIR$/create_use_db.sql" value="cc99634b-db13-43ef-a388-f79127638c34" />
+    <file url="file://$PROJECT_DIR$/crud_tables.sql" value="cc99634b-db13-43ef-a388-f79127638c34" />
+    <file url="file://$PROJECT_DIR$/show_all_db.sql" value="cc99634b-db13-43ef-a388-f79127638c34" />
   </component>
 </project>
